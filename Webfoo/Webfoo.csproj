@@ -143,9 +143,15 @@
     <Content Include="Assets\img\bg\divider3.jpg" />
     <Content Include="Assets\img\bg\divider4.jpg" />
     <Content Include="Assets\img\bg\divider6.jpg" />
+    <Content Include="Assets\img\cloudcomputing.jpg" />
+    <Content Include="Assets\img\cloudcomputing1.png" />
     <Content Include="Assets\img\cloudcomputing2.jpg" />
+    <Content Include="Assets\img\cloudcomputing2.PNG" />
     <Content Include="Assets\img\cloudcomputing3.jpg" />
     <Content Include="Assets\img\cloudcomputing5.jpg" />
+    <Content Include="Assets\img\cloudcomputing6.jpg" />
+    <Content Include="Assets\img\cloudcomputing7.PNG" />
+    <Content Include="Assets\img\cloudcomputing8.jpg" />
     <Content Include="Assets\img\header_bg_cloud.jpg" />
     <Content Include="Assets\img\header_bg.jpg" />
     <Content Include="Assets\img\iphone.png" />
@@ -162,6 +168,7 @@
     <Content Include="Assets\img\tampa.PNG" />
     <Content Include="Assets\img\tampa2.jpg" />
     <Content Include="Assets\img\team\beckwith.jpg" />
+    <Content Include="Assets\img\team\cloudcomputing4.jpg" />
     <Content Include="Assets\img\team\levin.jpg" />
     <Content Include="Assets\img\team\rjohnn.jpg" />
     <Content Include="Assets\img\team\team01.jpg" />
