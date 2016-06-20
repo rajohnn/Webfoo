@@ -226,13 +226,13 @@ a:after {
   background-size: cover;
 }
 #headerwrap h1 {
-  color: white;
+  color: #3498db;
   margin-top: 180px;
   padding-bottom: 10px;
   letter-spacing: 8px;
   font-size: 100px;
   font-weight: bold;
-  text-shadow: 2px 2px 2px #333;
+  text-shadow: 2px 2px 2px white;
 }
 #headerwrap p {
   color: #ffffff;
